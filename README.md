@@ -42,6 +42,6 @@ Sales-Data-Analytics/
 
 
 
-git clone https://github.com/yourusername/Sales-Data-Analytics.git
+git clone https://github.com/soha-220304/Sales-Data-Analytics.git
 
 Move into the project folder
