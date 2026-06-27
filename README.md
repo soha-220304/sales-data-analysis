@@ -1,4 +1,5 @@
-The Sales Data Analytics Project is designed to analyze sales data to discover business insights, identify trends, and support data-driven decision-making. The project uses data analysis techniques to evaluate sales performance across different products, customers, regions, and time periods.
+The Sales Data Analytics Project is designed to analyze sales data to discover business insights, identify trends, and support data-driven decision-making. 
+The project uses data analysis techniques to evaluate sales performance across different products, customers, regions, and time periods.
 🎯 Objectives
 Analyze overall sales performance.
 Identify top-selling products.
@@ -15,8 +16,6 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 Excel / CSV Dataset
-
-(Optional)
 
 Power BI
 SQL
